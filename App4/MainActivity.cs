@@ -17,6 +17,7 @@ namespace App4
         float count = 0;
         float countnul = 1;
         Button button;
+        int a = 0;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
